@@ -1,0 +1,21 @@
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={11}
+    height={11}
+    fill="none"
+    {...props}
+  >
+    <g clipPath="url(#a)">
+      <path
+        fill="#fff"
+        fillRule="evenodd"
+        d="M3.262 1.387v9.167H4.93V1.387H3.262Zm3.75 0v9.167H8.68V1.387H7.012Z"
+        clipRule="evenodd"
+      />
+    </g>
+    <defs>
+      <clipPath id="a">
+        <path fill="#fff" d="M.97.97h10v10h-10z" />
+      </clipPath>
+    </defs>
+  </svg>

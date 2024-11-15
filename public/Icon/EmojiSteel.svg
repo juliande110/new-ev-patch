@@ -1,0 +1,26 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.723938 80C0.723938 14.12 14.78 0 80.3619 0C145.944 0 160 14.12 160 80C160 145.88 145.944 160 80.3619 160C14.78 160 0.723938 145.88 0.723938 80Z" fill="url(#paint0_linear_354_12694)"/>
+<g filter="url(#filter0_d_354_12694)">
+<path d="M115.512 74L86.3119 44.9L80.3119 50.9L74.3119 44.9L45.2119 74L51.2119 80L45.2119 86L74.3119 115.1L80.3119 109.1L86.3119 115.1L115.412 86L109.412 80L115.512 74ZM109.812 86L99.5119 96.4L92.8119 89.7L90.0119 92.5L96.7119 99.2L86.3119 109.5L83.2119 106.3L89.9119 99.6L87.1119 96.8L80.4119 103.5L73.7119 96.8L70.9119 99.6L77.6119 106.3L74.4119 109.5L64.0119 99.2L70.7119 92.5L67.9119 89.7L61.2119 96.4L50.9119 86L54.0119 82.9L60.7119 89.6L63.5119 86.8L56.8119 80.1L63.5119 73.4L60.7119 70.6L54.0119 77.3L50.8119 74.1L61.2119 63.7L67.9119 70.4L70.7119 67.6L64.0119 60.9L74.3119 50.6L77.5119 53.8L70.8119 60.5L73.6119 63.3L80.3119 56.6L87.0119 63.3L89.8119 60.5L83.2119 53.7L86.4119 50.5L96.7119 60.9L90.0119 67.6L92.8119 70.4L99.5119 63.7L109.812 74L106.612 77.2L99.9119 70.5L97.1119 73.3L103.812 80L97.1119 86.7L99.9119 89.5L106.612 82.8L109.812 86ZM65.5119 80L80.3119 94.8L95.1119 80L80.3119 65.2L65.5119 80ZM80.3119 89.2L71.2119 80L80.3119 70.9L89.4119 80L80.3119 89.2Z" fill="url(#paint1_linear_354_12694)"/>
+</g>
+<defs>
+<filter id="filter0_d_354_12694" x="41.2119" y="44.9" width="78.3" height="78.2" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_354_12694"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_354_12694" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_354_12694" x1="80.3619" y1="160" x2="80.362" y2="5.16893e-06" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBEBFC"/>
+<stop offset="1" stop-color="#A2A3AE"/>
+</linearGradient>
+<linearGradient id="paint1_linear_354_12694" x1="80.3619" y1="115.1" x2="80.362" y2="44.9" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F32"/>
+<stop offset="1" stop-color="#161617"/>
+</linearGradient>
+</defs>
+</svg>

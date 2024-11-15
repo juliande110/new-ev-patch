@@ -1,0 +1,643 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: black;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+main {
+  margin-top: 77px;
+}
+
+.image-container {
+  position: relative;
+  min-width: 350px !important;
+}
+
+.background-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.eyeIcon {
+  background-color: black;
+  border-radius: 50%;
+  transition-duration: 900ms;
+}
+
+.eyeIcon:hover {
+  opacity: 0.5;
+}
+
+.CollectionHero {
+  object-fit: cover;
+  background-size: cover;
+  background-position: center;
+}
+
+.rk-c-gvSViX-ifqDalM-css {
+  display: none;
+}
+
+.rk-c-gvSViX-ihmwsVM-css {
+  display: none;
+}
+
+.rk-c-hVSBOd {
+  --rk--focusColor: #decaab;
+  border-radius: 0px;
+  border: 1px;
+}
+
+.rk-c-kJKkbM-iingwfP-css {
+  --rk--focusColor: #decaab;
+  border-radius: 0px;
+  border: 1px solid #decaab;
+}
+
+.rk-c-kJKkbM-iingwfP-css[data-state='open'] {
+  --rk--focusColor: #decaab;
+  border-radius: 0px;
+  border: 1px solid #decaab;
+}
+
+.rk-c-gvSViX {
+  border: none !important;
+}
+
+.rk-c-gJlioB.rk-c-gJlioB-ijPfeBO-css {
+  background-color: black !important;
+}
+
+.rk-c-gMSGwN-ihQCvVI-css {
+  border: 1px solid;
+}
+
+.rk-c-gvSViX-gfiezv-color-primary {
+  background: linear-gradient(0deg, #2f2f32 0%, #161617 100%);
+}
+
+.rk-c-gvSViX-idsGCCa-css > svg {
+  width: 24px;
+  height: 24px;
+  padding: 4px;
+  border: 1px solid;
+  background: linear-gradient(0deg, #2f2f32 0%, #161617 100%);
+  color: white;
+}
+
+.rk-c-gMSGwN-ikfJGxR-css {
+  display: none;
+}
+
+.rk-c-gMSGwN-ieACUkz-css {
+  background-color: black !important;
+}
+
+.rk-c-gUGjQi {
+  background-color: black !important;
+}
+
+.rk-c-hVSBOd {
+  background-color: black !important;
+  border: 1px solid #3a3a3c;
+  border-radius: 0px !important;
+}
+
+.rk-c-kJKkbM {
+  background-color: black !important;
+  border: 1px solid #3a3a3c;
+  border-radius: 0px !important;
+}
+
+.rk-c-gJlioB.rk-c-gJlioB-ijPfeBO-css .rk-c-gMSGwN-ieuMOcc-css .rk-c-gvSViX {
+  background: hsl(206, 6%, 43.9%) !important;
+  border: 1px solid #3a3a3c;
+  border-radius: 50% !important;
+}
+
+.rk-c-gvSViX {
+  background-color: black !important;
+  border: 1px solid #3a3a3c;
+  border-radius: 0px !important;
+}
+
+.rk-c-gvSViX-ijmpWBm-css > svg {
+  width: 24px;
+  height: 24px;
+  padding: 4px;
+  border: 1px solid;
+  background: linear-gradient(0deg, #2f2f32 0%, #161617 100%);
+  color: white;
+}
+
+.rk-c-jaylrU-iljVXXo-css {
+  background-color: black !important;
+  border: 1px solid #3a3a3c;
+  border-radius: 0px !important;
+}
+
+.rk-c-gvSViX-iiBowzF-css {
+  border: none !important;
+}
+
+.rk-c-gMSGwN-igkoUjS-css {
+  display: none;
+}
+
+[data-rk] .ju367vb5 {
+  background-color: black !important;
+  border: 2px solid;
+}
+
+[data-rk] .ju367vv {
+  border-radius: 0px !important;
+  border-width: 1px !important;
+}
+
+[data-rk] .ju367vdq {
+  border-color: rgb(90, 89, 89) !important;
+}
+
+[data-rk] .ju367vfe > svg {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  border: 1px solid;
+  background: linear-gradient(0deg, #2f2f32 0%, #161617 100%);
+  color: white;
+}
+
+.iekbcc0.ju367v4.ju367va.ju367v2r.ju367v35 {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.iekbcc0.ju367va.ju367v14 {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+[data-rk] ._1vwt0cg3 {
+  flex-grow: 1 !important;
+}
+
+[data-rk] .ju367vez {
+  padding-left: 20px !important;
+  display: grid !important;
+}
+
+[data-rk] .ju367v1s {
+  border: 1px solid #0d0d0d !important;
+  padding: 10px !important;
+  flex-direction: row !important;
+}
+
+[data-rk] ._1vwt0cg2 {
+  margin-block-start: 60px !important;
+}
+
+.iekbcc0.ju367va.ju367v15.ju367v1n {
+  border: 1px solid #0d0d0d !important;
+  padding: 15px 10px !important;
+}
+
+[data-rk] .ju367vat {
+  display: none;
+}
+
+[data-rk] .ju367v86 {
+  display: none;
+}
+
+.iekbcc0.ju367v34 > div {
+  display: none;
+}
+
+.iekbcc0.ju367v34:nth-child(1) {
+  background-image: url('/LogoGradient.png');
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 40px;
+  margin-left: -30px;
+}
+
+[data-rk] .ju367v50 > div {
+  display: none !important;
+}
+
+[data-rk] .ju367v50::before {
+  display: block;
+  content: 'Connect Your Wallet';
+  font-size: 40px;
+  color: #fff;
+}
+
+[data-rk] .ju367v50::after {
+  content: "If you don't have a wallet, you can select a provider and create one now.";
+  height: 100px;
+  font-size: 14px;
+  color: #aeaeb2;
+}
+
+[data-rk] .ju367v4v {
+  border: none !important;
+}
+
+[data-rk] .ju367v4v > [data-rk] ._12cbo8i4,
+[data-rk] ._12cbo8i4::after {
+  display: none;
+}
+
+[data-rk] .ju367v4v::after {
+  content: 'Accept Emblem Markets Terms of Service and Privacy Policy';
+  font-size: 14px;
+  color: #aeaeb2;
+}
+
+[data-rk] ._12cbo8i4,
+[data-rk] ._12cbo8i4::after {
+  display: none !important;
+}
+
+[data-rk] .ju367v4v {
+  margin-left: 0 !important;
+}
+
+/* mobile responisve */
+[data-rk] ._9pm4ki3 {
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367vbq.ju367va.ju367v15.ju367v6h.ju367v8e {
+  background-color: black !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div {
+  display: flex;
+  flex-direction: column-reverse !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367v3n.ju367v48.ju367v33.ju367v4y {
+  display: none;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367vbq.ju367va.ju367v6q.ju367v8a._1am14410 {
+  background-color: black !important;
+  margin-block-start: 15px;
+  padding-inline: 5%;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367va
+  > div
+  > div.iekbcc0.ju367v7b.ju367v7w {
+  border: 1px solid #0d0d0d !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367va
+  > div
+  > div.iekbcc0.ju367v7b.ju367v7w
+  > div
+  > button
+  > div
+  > div.iekbcc0.ju367va.ju367v4.ju367v2q.ju367v6k.ju367v8c.ju367v8r
+  > div {
+  width: 32px !important;
+  height: 32px !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367vbq.ju367va.ju367v6q.ju367v8a._1am14410
+  > div.iekbcc0.ju367va {
+  flex-direction: column !important;
+  padding-block: 5%;
+  border: 1px solid #0d0d0d !important;
+  gap: 10px;
+  width: 100% !important;
+  padding-inline: 10%;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367vbq.ju367va.ju367v6q.ju367v8a._1am14410
+  > div.iekbcc0.ju367va
+  > div
+  > div
+  > button
+  > div {
+  flex-direction: row !important;
+  gap: 15px;
+  justify-content: left !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367vbq.ju367va.ju367v6q.ju367v8a._1am14410
+  > div.iekbcc0.ju367va
+  > div
+  > div
+  > button
+  > div
+  h2 {
+  font-size: 15px !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367vbq.ju367va.ju367v15.ju367v6h.ju367v8e
+  > div
+  > div.iekbcc0.ju367v4r.ju367v2u.ju367v9e {
+  text-align: left !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367vbq.ju367va.ju367v15.ju367v6h.ju367v8e
+  > div
+  > div.iekbcc0.ju367v4r.ju367v2u.ju367v9e
+  > h1 {
+  display: none !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367vbq.ju367va.ju367v15.ju367v6h.ju367v8e
+  > div
+  > div.iekbcc0.ju367v4r.ju367v2u.ju367v9e::before {
+  content: url('/NewLogoEV.svg');
+  background-size: cover;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367v7e.ju367v7z.ju367v4.ju367va.ju367v15.ju367v1z
+  > div
+  > div:nth-child(1),
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367v7e.ju367v7z.ju367v4.ju367va.ju367v15.ju367v1z
+  > div
+  > div:nth-child(2) {
+  display: none !important;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367v7b.ju367v7w.ju367v8k
+  > div {
+  display: grid;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367v7b.ju367v7w.ju367v8k
+  > div
+  > div#connect-modal {
+  display: flex !important;
+  margin-block-start: 10px;
+  gap: 15px;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367v7b.ju367v7w.ju367v8k::before {
+  content: 'Connect Your Wallet';
+  font-size: 40px;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367v7b.ju367v7w.ju367v8k
+  > div::before {
+  content: "If you don't have a wallet, you can select a provider and create one now.";
+  font-size: 14px;
+  margin-block-start: 30px;
+  color: #aeaeb2;
+}
+
+[data-rk]
+  ._9pm4ki3
+  > div._9pm4ki5.ju367va.ju367v15.ju367v8r
+  > div.iekbcc0
+  > div
+  > div
+  > div
+  > div.iekbcc0.ju367va.ju367v15
+  > div
+  > div.iekbcc0.ju367v7b.ju367v7w.ju367v8k
+  > div
+  > div#connect-modal::after {
+  content: 'Accept Emblem Markets Terms of Service and Privacy Policy';
+  font-size: 14px;
+  color: #aeaeb2;
+}
+
+[data-rk] .ju367vfe {
+  width: 40px !important;
+  height: 40px !important;
+}
+
+div#connect-modal {
+  display: block !important;
+}
+
+.c-dhzjXW-iecEtuz-css
+  > div.c-dhzjXW.c-dhzjXW-bICGYT-justify-center.c-dhzjXW-iTKOFX-direction-column.c-dhzjXW-ifGHEql-css
+  > div.c-dhzjXW.c-dhzjXW-knmidH-justify-between
+  > span:nth-child(2) {
+  display: none;
+}
+
+.ReactModal__Overlay--after-open {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  overflow-y: scroll;
+  z-index: 1000;
+}
+
+.slick-dots li {
+  width: 40px !important;
+  opacity: 0.15;
+}
+
+.slick-active {
+  opacity: 1 !important;
+}
+
+.slick-list {
+  padding: 0 !important;
+  padding-right: 30px;
+}
+
+.hero-carousel .slick-slide {
+  max-width: 335px;
+}
+
+.hero-item:last-child {
+  grid-column: 1 / -1;
+  justify-self: center;
+}
+
+.actions-card {
+  transition: all 0.3s ease-in-out;
+}
+.actions-card:hover {
+  transform: scale(0.9);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #2f2f32;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
